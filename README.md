@@ -3,10 +3,10 @@ AgroVision is an AI-powered system designed to assist farmers in identifying and
 
 Table of Contents ( Updating...)
 
-##Project Overview
+## Project Overview
 AgroVision leverages deep learning models to detect and classify crop diseases from images. By providing real-time insights, it aids farmers in taking proactive measures to protect their crops. The system supports multiple crop types and diseases, making it a versatile tool in modern agriculture.
 
-##Features
+## Features
 Disease Detection: Identify diseases from crop images with high accuracy.
 Multi-Crop Support: Supports various crops including tomatoes, potatoes, and more.
 User-Friendly Interface: Easy-to-use web interface for uploading images and viewing results.
