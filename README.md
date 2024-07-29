@@ -8,6 +8,9 @@ AgroVision leverages deep learning models to detect and classify crop diseases f
 
 ## Features
 Disease Detection: Identify diseases from crop images with high accuracy.
+
 Multi-Crop Support: Supports various crops including tomatoes, potatoes, and more.
+
 User-Friendly Interface: Easy-to-use web interface for uploading images and viewing results.
+
 Real-Time Analysis: Get immediate feedback on crop health status.
